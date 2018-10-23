@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/abbas-s/SampleProject1/_apis/build/status/szabbas.pipelines-java)](https://dev.azure.com/abbas-s/SampleProject1/_build/latest?definitionId=2)
 
 # Contributing
 
